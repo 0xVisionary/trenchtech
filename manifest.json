@@ -2,13 +2,16 @@
   "manifest_version": 3,
   "name": "TrenchTech",
   "version": "1.0",
-  "description": "Visually resize trading-site buttons",
+  "description": "Creating ease of access for trenchers by trenchers!",
   "permissions": [
     "storage",
     "scripting",
     "activeTab",
     "tabs"
   ],
+  "icons": {
+    "128": "icons/icon-128.png"
+  },
   "host_permissions": [
     "<all_urls>"
   ],

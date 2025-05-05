@@ -10,7 +10,10 @@ function apply(settings) {
       ${BTN} {
         line-height: ${settings.lineHeight};
       }
-        .WONu4jRBwJmFo3FD6XwP {
+      ${BTN} .u-w-100 {
+        width: auto !important;
+      } 
+      .WONu4jRBwJmFo3FD6XwP {
         max-width: 140px;
         position: relative;
         z-index: 2;
