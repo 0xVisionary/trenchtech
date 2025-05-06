@@ -14,7 +14,7 @@ function apply(settings) {
         width: auto !important;
       } 
       .WONu4jRBwJmFo3FD6XwP {
-        max-width: 140px;
+        max-width: 15vw !important;
         position: relative;
         z-index: 2;
         width: ${settings.width}vw;
